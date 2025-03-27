@@ -12,5 +12,3 @@ A simple Razorpay landing page clone built using **Tailwind CSS**.
 ## 🛠 Tech Stack
 - HTML, CSS
 - Tailwind CSS  
-
-⭐ **Feel free to fork and modify!**
