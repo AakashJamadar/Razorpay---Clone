@@ -1,6 +1,6 @@
 # 🚀 Razorpay Clone
 
-A simple Razorpay landing page clone built using **Tailwind CSS**.
+A simple Razorpay landing page clone built to learn **Tailwind CSS**.
 
 🔗 **Live Demo**: [Razorpay Clone](https://razorpay-clone-nine-coral.vercel.app)
 
